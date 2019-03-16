@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="NetworkImageView">
+    <attr name="networkUrl" format="string"/>
+    <attr name="cacheEnable" format="boolean"/>
+    <attr name="defaultImage" format="reference"/>
+  </declare-styleable>
+
+</resources>

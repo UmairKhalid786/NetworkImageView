@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Network ImageView</string>
+  <string name="url_string">https://dummyimage.com/600x400/000/fff</string>
+</resources>
